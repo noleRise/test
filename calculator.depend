@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1529894907 source:d:\数据结构\calculator\main.cpp
+	<iostream>
+	"Stack.h"
+	<string>
+	<math.h>
+
+1529896453 d:\数据结构\calculator\stack.h
+	<iostream>
+
+1521020797 source:d:\数据结构\calculator\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1530237135 source:d:\数据结构\structure\calculator\main.cpp
+	<iostream>
+	"Stack.h"
+	<string>
+	<math.h>
+
+1529896453 d:\数据结构\structure\calculator\stack.h
+	<iostream>
+
+1521020797 source:d:\数据结构\structure\calculator\stack.cpp
+	"Stack.h"
+	<iostream>
+
